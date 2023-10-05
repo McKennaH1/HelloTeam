@@ -1,1 +1,1 @@
-let teamNames = ["McKenna Harker", "Gabriel Cánepa"];
+let teamNames = ["McKenna Harker", "Gabriel Cánepa","Amanda Cole"];
