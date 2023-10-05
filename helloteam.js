@@ -1,3 +1,1 @@
-const name = "McKenna Harker";
-
-console.log("Hello World");
+let teamNames = ["McKenna Harker"];
